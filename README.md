@@ -8,7 +8,7 @@
     <img height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img height=60 width=100  src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" />
       <img height=60 width=40  src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" />
-    <img height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img height=55 width=40  src="https://eduardoportifolio.netlify.app/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg" />
         <img height=55 width=40  src="https://eduardoportifolio.netlify.app/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg" />
   <img height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
