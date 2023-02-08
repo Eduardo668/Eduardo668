@@ -4,7 +4,7 @@
 
   <div align="center">
     <img style="margin:10px" height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img height=60 width=70  src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+   <img src="https://img.icons8.com/color/1x/spring-logo.png" width="60px">
     <img height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img height=60 width=100  src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" />
       <img height=60 width=40  src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" />
