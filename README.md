@@ -9,8 +9,8 @@
       <img height=60 width=100  src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" />
       <img height=60 width=40  src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" />
     <img style="margin:10px" height=60 width=42  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img style="margin:10px" height=55 width=40  src="https://img.icons8.com/color/256/html-5.png" />
-        <img style="margin:10px" height=55 width=40  src="https://img.icons8.com/color/256/css3.png" />
+        <img style="margin:10px" height=55 width=55  src="https://img.icons8.com/color/256/html-5.png" />
+        <img style="margin:10px" height=55 width=55  src="https://img.icons8.com/color/256/css3.png" />
   <img style="margin:10px" height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       
 
