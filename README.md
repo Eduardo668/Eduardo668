@@ -18,18 +18,16 @@ I work with both **frontend** and **backend**, delivering complete solutions wit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo668&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo668&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -39,6 +37,8 @@ I work with both **frontend** and **backend**, delivering complete solutions wit
 - 🎓 Focused on **Java + Spring Boot** for backend and **React/Next.js + TypeScript** for frontend  
 - 🐳 Using **Docker** for containerization and deployment  
 - 🛢 Experienced with relational databases: **PostgreSQL** & **MySQL**  
+- 🛠 API testing with **Postman**  
+- 🐧 Comfortable working with **Linux** environments  
 - 📈 Always improving my skills in **clean code, design patterns, and scalable systems**
 
 ---
