@@ -25,11 +25,11 @@ I work with both **frontend** and **backend**, delivering complete solutions wit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSehn&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo668&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoSehn&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo668&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
