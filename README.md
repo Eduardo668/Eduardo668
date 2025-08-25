@@ -28,7 +28,7 @@ I work with both **frontend** and **backend**, delivering complete solutions wit
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSehn&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo668&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ I work with both **frontend** and **backend**, delivering complete solutions wit
   <a href="https://www.linkedin.com/in/eduardo-paixão-sehn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eduardosehn.dev@gmail.com">
+  <a href="mailto:eduardosehn20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
