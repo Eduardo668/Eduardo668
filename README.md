@@ -1,17 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=190&section=header&text=Eduardo%20Sehn&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Technician%20%7C%20Software%20Developer%20%7C%20Infrastructure&descAlignY=55&descSize=17&animation=fadeIn" alt="Eduardo Sehn header"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=190&section=header&text=Eduardo%20Sehn&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Technician%20%7C%20Software%20Developer%20%7C%20Infrastructure&descAlignY=55&descSize=17&animation=fadeIn"
+  alt="Eduardo Sehn"
+/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=850&lines=IT+Technician+%26+Software+Developer;Building+software+that+solves+real+problems;Infrastructure%2C+automation+and+full-stack+development;Turning+manual+processes+into+reliable+systems" alt="Typing animation"/>
-</a>
+<img
+  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=IT+Technician+%26+Software+Developer;Building+software+that+solves+real+problems;Infrastructure%2C+automation+and+full-stack+development;Turning+manual+processes+into+reliable+systems"
+  alt="Typing animation"
+/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Eduardo668&label=Profile%20Views&color=0A6087&style=for-the-badge" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Eduardo668&label=Profile%20Views&color=0A6087&style=for-the-badge"
+  alt="Profile views"
+/>
 
 <a href="https://github.com/Eduardo668?tab=followers">
-  <img src="https://img.shields.io/github/followers/Eduardo668?label=Followers&style=for-the-badge&color=0A6087" alt="GitHub followers"/>
+  <img
+    src="https://img.shields.io/github/followers/Eduardo668?label=Followers&style=for-the-badge&color=0A6087"
+    alt="GitHub followers"
+  />
 </a>
 
 </div>
@@ -43,40 +55,54 @@ I enjoy transforming recurring operational problems into reliable software solut
 
 ### 💻 Software Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,html,css&theme=dark" alt="Software development technologies"/>
-</p>
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,html,css&theme=dark&perline=5"
+  alt="Software development technologies"
+/>
+
+</div>
 
 ### 🐳 Infrastructure, DevOps & Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql,git,github,githubactions,bash,powershell&theme=dark" alt="Infrastructure and DevOps technologies"/>
-</p>
-
 <div align="center">
 
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img
+  src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql,git,github,githubactions,bash,powershell&theme=dark&perline=5"
+  alt="Infrastructure, DevOps and database technologies"
+/>
 
 </div>
+
+### ☁️ Microsoft Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="28" alt="Microsoft Intune"/>
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Microsoft Entra ID"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="28" alt="Microsoft 365"/>
+</p>
+
+### 🌐 Virtualization & Networking
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" height="28" alt="pfSense"/>
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" height="28" alt="OpenVPN"/>
+</p>
+
+### 📊 Monitoring & Application Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="28" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="28" alt="Prisma"/>
+</p>
 
 ---
 
 ## 🔧 What I Work With
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🖥️ IT & Infrastructure
 
@@ -86,7 +112,7 @@ I enjoy transforming recurring operational problems into reliable software solut
 - Device deployment and compliance
 - Identity and access management
 - Networking, routing and troubleshooting
-- VPNs and firewall administration
+- VPN and firewall administration
 - Proxmox virtualization
 - pfSense and OpenVPN
 - Docker environments
@@ -94,9 +120,6 @@ I enjoy transforming recurring operational problems into reliable software solut
 - Infrastructure monitoring
 - Endpoint management
 - Security and compliance policies
-
-</td>
-<td width="50%" valign="top">
 
 ### 💻 Software Development
 
@@ -115,13 +138,9 @@ I enjoy transforming recurring operational problems into reliable software solut
 - File processing and synchronization
 - Technical documentation
 
-</td>
-</tr>
-</table>
-
 ---
 
-# 🚀 Engineering Work
+## 🚀 Engineering Work
 
 Most of my recent projects were created to solve real operational problems inside business environments.
 
@@ -137,9 +156,21 @@ Internal platform created to automate the delivery and synchronization of custom
 
 The system provides operation history, transfer progress, automatic retries, error tracking and centralized management of delivery processes.
 
-**Main technologies:**
+**Main technologies**
 
 `Next.js` `Node.js` `PostgreSQL` `Prisma` `Docker` `rclone`
+
+---
+
+### 📊 Infrastructure Observability
+
+Centralized monitoring environment created to improve visibility into servers, containers and operational services.
+
+The solution provides dashboards, system metrics, infrastructure alerts and centralized troubleshooting information.
+
+**Main technologies**
+
+`Grafana` `Zabbix` `Docker` `Linux` `rsyslog`
 
 ---
 
@@ -149,7 +180,7 @@ Automated monitoring services that validate SSL certificate expiration dates, do
 
 These services generate preventive alerts before an expiration or service interruption can affect production environments.
 
-**Main technologies:**
+**Main technologies**
 
 `Node.js` `OpenSSL` `Cron Jobs` `Docker` `REST APIs` `RDAP`
 
@@ -161,7 +192,7 @@ Internal dashboard developed to display mailbox usage information and help opera
 
 The platform consumes internal endpoints and presents usage data through a simple and accessible interface.
 
-**Main technologies:**
+**Main technologies**
 
 `React` `TypeScript` `Vite` `REST APIs` `Docker`
 
@@ -169,15 +200,15 @@ The platform consumes internal endpoints and presents usage data through a simpl
 
 ## 🚧 Currently Building
 
-### 🎙️ POLMeetAI — Meeting Intelligence Platform
+### 🎙️ POLMeetAI
 
-![Status](https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square)
+<img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square" alt="In development"/>
 
-Browser extension and backend platform designed to record meetings, process audio asynchronously, generate transcriptions and create AI-assisted summaries.
+Meeting intelligence platform composed of a browser extension and an asynchronous backend.
 
-The architecture includes asynchronous processing, background workers, transcription providers and structured meeting data.
+The project is being designed to record meetings, process audio, generate transcriptions and create AI-assisted summaries.
 
-**Main technologies:**
+**Main technologies**
 
 `TypeScript` `Fastify` `PostgreSQL` `Docker` `Workers` `Whisper AI`
 
@@ -185,13 +216,13 @@ The architecture includes asynchronous processing, background workers, transcrip
 
 ### 🌐 Domain Management Platform
 
-![Status](https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square)
+<img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square" alt="In development"/>
 
 Centralized platform for managing customer and company domains.
 
 The system is being designed to monitor expiration dates, payment status, registrar information and operational alerts through RDAP and registrar integrations.
 
-**Main technologies:**
+**Main technologies**
 
 `Next.js` `Node.js` `Prisma` `PostgreSQL` `Docker` `RDAP` `GoDaddy API`
 
@@ -199,13 +230,13 @@ The system is being designed to monitor expiration dates, payment status, regist
 
 ### 🖨️ Internal IT Support Platform
 
-![Status](https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square)
+<img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square" alt="In development"/>
 
 Internal support and documentation platform designed to guide employees through common technical procedures.
 
 The project aims to reduce recurring support requests by providing centralized instructions, videos and self-service troubleshooting resources.
 
-**Main technologies:**
+**Main technologies**
 
 `React` `TypeScript` `Tailwind CSS` `Nginx` `Docker`
 
@@ -213,28 +244,51 @@ The project aims to reduce recurring support requests by providing centralized i
 
 ## 🏗️ Infrastructure Experience
 
-```text
-Endpoint Management     Microsoft Intune, Entra ID and compliance policies
-Virtualization          Proxmox, virtual machines and container environments
-Networking              pfSense, OpenVPN, IPsec, routing and troubleshooting
-Observability           Grafana, Zabbix, metrics, alerts and centralized logs
-Microsoft Ecosystem     Microsoft 365, OneDrive, Teams and device management
-Linux                    Server administration, services, permissions and automation
-Containers               Docker, Docker Compose and containerized deployments
-Databases                PostgreSQL, MySQL, Prisma and database administration
-Automation               PowerShell, Bash, scheduled jobs and internal tools
-```
+### Endpoint Management
+
+Microsoft Intune, Entra ID, device enrollment, compliance policies and endpoint security.
+
+### Virtualization
+
+Proxmox, virtual machines, storage management and container environments.
+
+### Networking
+
+pfSense, OpenVPN, IPsec, routing, firewall rules and network troubleshooting.
+
+### Observability
+
+Grafana, Zabbix, infrastructure metrics, automated alerts and centralized system information.
+
+### Microsoft Ecosystem
+
+Microsoft 365, OneDrive, Teams, identity management and device administration.
+
+### Linux
+
+Server administration, services, permissions, package management and automation.
+
+### Containers
+
+Docker, Docker Compose, containerized applications and internal deployments.
+
+### Databases
+
+PostgreSQL, MySQL, Prisma, relational modeling and database administration.
+
+### Automation
+
+PowerShell, Bash, scheduled jobs, internal tools and operational workflows.
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Infrastructure      █████████████████░░░   IT operations, networking and monitoring
-Development         ██████████████████░░   Full-stack applications and APIs
-DevOps              ███████████████░░░░░   Containers, deployment and automation
-Cloud & Security    ███████████░░░░░░░░░   Identity, cloud and infrastructure security
-```
+- 🖥️ **Infrastructure:** IT operations, networking and monitoring
+- 💻 **Development:** Full-stack applications and REST APIs
+- 🐳 **DevOps:** Containers, deployments and automation
+- ☁️ **Cloud:** Identity, endpoint management and cloud infrastructure
+- 🔐 **Security:** Compliance, access management and infrastructure reliability
 
 ---
 
@@ -255,16 +309,16 @@ Cloud & Security    ███████████░░░░░░░░░
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eduardo-paixao-sehn">
-  <img src="https://img.shields.io/badge/LinkedIn-Eduardo_Sehn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/eduardo-paixão-sehn">
+  <img src="https://img.shields.io/badge/LinkedIn-Eduardo_Sehn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:eduardosehn20@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/>
 </a>
 
 <a href="https://github.com/Eduardo668">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub"/>
 </a>
 
 </div>
@@ -275,8 +329,14 @@ Cloud & Security    ███████████░░░░░░░░░
 
 ### 💬 “Technology is most valuable when it turns complex problems into simple solutions.”
 
-<br/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color height="30" alt="Email"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=120&section=footer" alt="Footer"/>
+<a href="https://github.com/Eduardo668">
+  <img src="https://img.shields=0:071A2F,50:0A6087,100:00B4D8&height=120&section=footer"
+  alt="Footer"
+/>
 
 </div>
