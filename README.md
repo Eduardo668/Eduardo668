@@ -160,17 +160,6 @@ The system provides operation history, transfer progress, automatic retries, err
 
 `Next.js` `Node.js` `PostgreSQL` `Prisma` `Docker` `rclone`
 
----
-
-### 📊 Infrastructure Observability
-
-Centralized monitoring environment created to improve visibility into servers, containers and operational services.
-
-The solution provides dashboards, system metrics, infrastructure alerts and centralized troubleshooting information.
-
-**Main technologies**
-
-`Grafana` `Zabbix` `Docker` `Linux` `rsyslog`
 
 ---
 
