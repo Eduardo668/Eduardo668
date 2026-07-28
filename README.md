@@ -153,48 +153,7 @@ Automated services that validate SSL certificates, domain expiration dates and i
 
 ---
 
-## 🌎 Public Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💼 [Professional Portfolio](https://github.com/Eduardo668/PortifolioProfissional)
-
-Personal portfolio presenting my development background, projects and professional experience.
-
-```
-</td>
-<td width="50%" valign="top">
-```
-
-### ☁️ [DevOps Cloud Immersion](https://github.com/Eduardo668/ImersaoDevOpsCloud)
-
-Repository containing practical studies involving DevOps concepts, cloud environments and application deployment.
-
-```
-</td>
-```
-
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👥 [Kopili](https://github.com/Eduardo668/Kopili)
-
-Full-stack project created to explore application architecture, backend services and frontend development.
-
-```
-</td>
-<td width="50%" valign="top">
-```
-
-### 🎵 [Simple Music API](https://github.com/Eduardo668/Simple-Music-API)
-
-REST API project focused on backend development, data management and service architecture.
-
-```
-</td>
 ```
 
   </tr>
