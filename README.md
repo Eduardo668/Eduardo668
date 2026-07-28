@@ -143,18 +143,6 @@ The system provides operation history, transfer progress, automatic retries, err
 
 ---
 
-### 📊 Infrastructure Observability
-
-Centralized monitoring and log analysis environment created to improve visibility into servers, containers and operational services.
-
-The solution provides dashboards, system metrics, infrastructure alerts and centralized troubleshooting information.
-
-**Main technologies:**
-
-`Grafana` `Zabbix` `Docker` `Linux` `Promtail` `rsyslog`
-
----
-
 ### 🔐 Certificate and Domain Monitoring
 
 Automated monitoring services that validate SSL certificate expiration dates, domain expiration dates and external integration balances.
