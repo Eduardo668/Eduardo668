@@ -151,15 +151,17 @@ Automated services that validate SSL certificates, domain expiration dates and i
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eduardo668&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Eduardo's GitHub statistics"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo668&theme=tokyonight" alt="Eduardo's GitHub profile details"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Eduardo668&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub streak"/>
+<br/>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo668&theme=tokyonight" alt="Eduardo's GitHub statistics"/>
 
-<div align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo668&theme=tokyonight" alt="Most used languages"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo668&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=html,css" alt="Most used languages"/>
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Eduardo668&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub streak"/>
 
 </div>
 
