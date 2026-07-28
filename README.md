@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=190&section=header&text=Eduardo%20Sehn&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Technician%20%7C%20Software%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=55&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=190&section=header&text=Eduardo%20Sehn&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Technician%20%7C%20Software%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=55&descSize=17&animation=fadeIn" alt="Eduardo Sehn header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=850&lines=IT+Technician+%26+Software+Developer;Building+software+that+solves+real+problems;Infrastructure%2C+automation+and+full-stack+development;Turning+manual+processes+into+reliable+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=850&lines=IT+Technician+%26+Software+Developer;Building+software+that+solves+real+problems;Infrastructure%2C+automation+and+full-stack+development;Turning+manual+processes+into+reliable+systems" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -22,17 +22,17 @@
 
 I'm an **IT Technician and Software Developer** from Brazil, working at the intersection of **technical support, infrastructure, automation and software engineering**.
 
-I enjoy transforming recurring operational problems into reliable software. My work ranges from managing devices, networks and servers to building complete internal platforms, APIs, dashboards, monitoring systems and automation tools.
+I enjoy transforming recurring operational problems into reliable software solutions. My work ranges from managing devices, networks and servers to building complete internal platforms, APIs, dashboards, monitoring systems and automation tools.
 
-* 🖥️ Working with **IT support, Windows environments, networks and infrastructure**
-* 🚀 Developing **full-stack applications, APIs and internal business tools**
-* 🐳 Deploying and managing applications with **Docker and Linux**
-* 📊 Building observability solutions with **Grafana and Zabbix**
-* ☁️ Working with **Microsoft Intune, Entra ID and Microsoft 365**
-* 🔐 Interested in security, identity management and infrastructure reliability
-* 🧠 Continuously learning more about **DevOps, cloud computing and scalable systems**
-* 🎓 Technical degree in **Systems Development**
-* 📚 Currently expanding my knowledge in **Computer Networks**
+- 🖥️ Working with **IT support, Windows environments, networks and infrastructure**
+- 🚀 Developing **full-stack applications, APIs and internal business tools**
+- 🐳 Deploying and managing applications with **Docker and Linux**
+- 📊 Building observability solutions with **Grafana and Zabbix**
+- ☁️ Working with **Microsoft Intune, Entra ID and Microsoft 365**
+- 🔐 Interested in security, identity management and infrastructure reliability
+- 🧠 Continuously learning about **DevOps, cloud computing and scalable systems**
+- 🎓 Technical degree in **Systems Development**
+- 📚 Currently expanding my knowledge in **Computer Networks**
 
 > I don't just fix technical problems — I build solutions that prevent them from happening again.
 
@@ -40,13 +40,13 @@ I enjoy transforming recurring operational problems into reliable software. My w
 
 ## 🧰 Technology Stack
 
-### Software Development
+### 💻 Software Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring&theme=dark" alt="Development technologies"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,html,css&theme=dark" alt="Software development technologies"/>
 </p>
 
-### Infrastructure, DevOps & Databases
+### 🐳 Infrastructure, DevOps & Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql,git,github,githubactions,bash,powershell&theme=dark" alt="Infrastructure and DevOps technologies"/>
@@ -54,16 +54,18 @@ I enjoy transforming recurring operational problems into reliable software. My w
 
 <div align="center">
 
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge\&logo=pfsense\&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge\&logo=zabbix\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
 
@@ -71,49 +73,40 @@ I enjoy transforming recurring operational problems into reliable software. My w
 
 ## 🔧 What I Work With
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🖥️ IT & Infrastructure
 
-* Windows and Linux administration
-* Microsoft Intune and Entra ID
-* Microsoft 365 environments
-* Device deployment and compliance
-* Networking, VPNs and firewalls
-* Proxmox virtualization
-* pfSense and OpenVPN
-* Docker environments
-* Server and application troubleshooting
-* Infrastructure monitoring and logging
-
-    </td>
-    <td width="50%" valign="top">
+- Windows and Linux administration
+- Microsoft Intune and Entra ID
+- Microsoft 365 environments
+- Device deployment and compliance
+- Identity and access management
+- Networking, VPNs and firewalls
+- Proxmox virtualization
+- pfSense and OpenVPN
+- Docker environments
+- Server and application troubleshooting
+- Infrastructure monitoring and logging
+- Endpoint management and security policies
 
 ### 💻 Software Development
 
-* Full-stack web applications
-* REST APIs and backend services
-* Internal business platforms
-* Dashboards and management systems
-* Process automation
-* Database modeling
-* Authentication and authorization
-* Background workers and queues
-* Third-party API integrations
-* Containerized deployments
-
-    </td>
-  </tr>
-
-</table>
+- Full-stack web applications
+- REST APIs and backend services
+- Internal business platforms
+- Administrative dashboards
+- Process automation
+- Database modeling
+- Authentication and authorization
+- Background workers and queues
+- Third-party API integrations
+- Containerized deployments
+- Monitoring and alerting services
 
 ---
 
 ## 🚀 Selected Engineering Work
 
-Some of my most relevant projects are internal or private due to business confidentiality, but these are the kinds of solutions I build:
+Some of my most relevant projects are internal or private due to business confidentiality, but these are the types of solutions I design and build.
 
 ### 🎙️ Meeting Intelligence Platform
 
@@ -133,35 +126,25 @@ Internal system that automates backup delivery, file synchronization, progress t
 
 `Next.js` `Node.js` `PostgreSQL` `Docker` `rclone`
 
-### 📊 Infrastructure Observability
-
-Centralized monitoring and log analysis solution for servers, containers and operational services.
-
-`Grafana` `Zabbix` `Docker` `Linux` `rsyslog`
-
 ### 🔐 Certificate and Domain Monitoring
 
 Automated services that validate SSL certificates, domain expiration dates and integration balances, generating alerts before incidents occur.
 
 `Node.js` `OpenSSL` `Cron Jobs` `Docker` `REST APIs`
 
+### 🖨️ Internal IT Support Platform
+
+Internal documentation and support platform created to guide users through common technical procedures and reduce recurring support requests.
+
+`React` `TypeScript` `Tailwind CSS` `Nginx` `Docker`
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo668&theme=tokyonight" alt="Eduardo's GitHub profile details"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo668&theme=tokyonight" alt="Eduardo's GitHub statistics"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo668&theme=tokyonight" alt="Most used languages"/>
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Eduardo668&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Eduardo668&theme=tokyonight&hide_border=true&border_radius=8" alt="Eduardo's GitHub contribution streak"/>
 
 </div>
 
@@ -171,17 +154,7 @@ Automated services that validate SSL certificates, domain expiration dates and i
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo668&theme=tokyo-night&hide_border=true&area=true&custom_title=Eduardo%27s%20Contribution%20Activity" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eduardo668&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo668&theme=tokyo-night&hide_border=true&area=true&custom_title=Eduardo%27s%20Contribution%20Activity" alt="Eduardo's contribution activity graph"/>
 
 </div>
 
@@ -224,6 +197,6 @@ Cloud & Security    ███████████░░░░░░░░░
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0A6087,100:00B4D8&height=120&section=footer" alt="Footer"/>
 
 </div>
