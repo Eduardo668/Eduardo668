@@ -9,6 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Eduardo668&label=Profile%20Views&color=0A6087&style=for-the-badge" alt="Profile views"/>
+
 <a href="https://github.com/Eduardo668?tab=followers">
   <img src="https://img.shields.io/github/followers/Eduardo668?label=Followers&style=for-the-badge&color=0A6087" alt="GitHub followers"/>
 </a>
@@ -26,7 +27,7 @@ I enjoy transforming recurring operational problems into reliable software. My w
 * 🖥️ Working with **IT support, Windows environments, networks and infrastructure**
 * 🚀 Developing **full-stack applications, APIs and internal business tools**
 * 🐳 Deploying and managing applications with **Docker and Linux**
-* 📊 Building observability solutions with **Grafana, Loki and Zabbix**
+* 📊 Building observability solutions with **Grafana and Zabbix**
 * ☁️ Working with **Microsoft Intune, Entra ID and Microsoft 365**
 * 🔐 Interested in security, identity management and infrastructure reliability
 * 🧠 Continuously learning more about **DevOps, cloud computing and scalable systems**
@@ -51,12 +52,6 @@ I enjoy transforming recurring operational problems into reliable software. My w
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql,git,github,githubactions,bash,powershell&theme=dark" alt="Infrastructure and DevOps technologies"/>
 </p>
 
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,windows&theme=dark" alt="Tools and platforms"/>
-</p>
-
 <div align="center">
 
 ![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
@@ -66,7 +61,6 @@ I enjoy transforming recurring operational problems into reliable software. My w
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge\&logo=pfsense\&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge\&logo=zabbix\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
@@ -143,21 +137,13 @@ Internal system that automates backup delivery, file synchronization, progress t
 
 Centralized monitoring and log analysis solution for servers, containers and operational services.
 
-`Grafana` `Loki` `Promtail` `Zabbix` `Docker` `Linux`
+`Grafana` `Zabbix` `Docker` `Linux` `rsyslog`
 
 ### 🔐 Certificate and Domain Monitoring
 
 Automated services that validate SSL certificates, domain expiration dates and integration balances, generating alerts before incidents occur.
 
 `Node.js` `OpenSSL` `Cron Jobs` `Docker` `REST APIs`
-
----
-
-
-```
-
-  </tr>
-</table>
 
 ---
 
