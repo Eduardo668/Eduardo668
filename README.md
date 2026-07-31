@@ -318,9 +318,5 @@ PowerShell, Bash, scheduled jobs, internal tools and operational workflows.
 
 ### 💬 “Technology is most valuable when it turns complex problems into simple solutions.”
 
-<a href="https://github.com/Eduardo668">
-  <img src="https://img.shields=0:071A2F,50:0A6087,100:00B4D8&height=120&section=footer"
-  alt="Footer"
-/>
 
 </div>
