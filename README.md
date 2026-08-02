@@ -189,6 +189,20 @@ The platform consumes internal endpoints and presents usage data through a simpl
 
 ## 🚧 Currently Building
 
+### 📞 [POLPhone](https://github.com/Eduardo668/POLPhone)
+
+<img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square" alt="In development"/>
+
+Technical proof of concept for a Windows x64 SIP softphone, developed in C++17 with PJSIP/PJSUA2 2.17.
+
+The console-based MVP supports SIP registration, incoming and outgoing calls with bidirectional audio, and explicit DTMF testing through RFC 4733, SIP INFO and in-band methods.
+
+**Main technologies**
+
+`C++17` `PJSIP/PJSUA2` `SIP` `RTP` `CMake` `Visual Studio 2022` `Windows x64`
+
+---
+
 ### 🎙️ POLMeetAI
 
 <img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square" alt="In development"/>
